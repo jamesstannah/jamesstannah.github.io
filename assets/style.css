@@ -8,6 +8,12 @@ body {
   color: #333;
 }
 
+body.home h1 {
+  font-size: 4rem;  /* bigger title for homepage only */
+  text-align: center;
+  color: #007acc;   /* optional color */
+}
+
 header {
   text-align: center;
   margin-bottom: 2rem;
