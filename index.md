@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-![James Stannah](assets/images/leiden.jpg){: style="width:400px; border-radius:50%;" }
+![James Stannah](assets/images/leiden.jpg){: style="display:block; margin:0 auto; width:400px; border-radius:50%;" }
 
 # James Stannah, PhD
 ## Postdoctoral Fellow, Factor-Inwentash Faculty of Social Work, University of Toronto
