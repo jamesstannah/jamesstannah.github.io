@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-## Contact information
-
 - ✉️ **Email:** [james.stannah@utoronto.ca](mailto:james.stannah@utoronto.ca)  
 
 ### 🔗 Links
