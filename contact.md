@@ -7,5 +7,5 @@ permalink: /contact/
 # Contact information
 You can reach me at: 
 **Email:** james.stannah@utoronto.ca
-**LinkedIn:** [@james-stannah](www.linkedin.com/in/james-stannah)
+**LinkedIn:** [@james-stannah](https://www.linkedin.com/in/james-stannah)
 
