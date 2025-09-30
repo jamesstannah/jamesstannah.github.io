@@ -4,7 +4,7 @@ title: "Home"
 permalink: /home/
 ---
 
-![James Stannah](assets/images/leiden.jpg){: style="display:block; margin:0 50px; width:400px; border-radius:50%;" }
+![James Stannah](assets/images/leiden.jpg){: style="display:block; margin:0 auto; width:400px; border-radius:50%;" }
 
 # James Stannah, PhD
 ## Postdoctoral Researcher, Factor-Inwentash Faculty of Social Work (FIFSW), University of Toronto (UofT)
