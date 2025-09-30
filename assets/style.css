@@ -9,9 +9,15 @@ body {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.5rem; /* heading */
   text-align: left;
   color: #333;
+}
+
+h2 {
+  font-size: 1.5rem; /* subheading */
+  text-align: left;
+  color: #555;       /* optional lighter color */
 }
 
 header {
