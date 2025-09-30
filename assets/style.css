@@ -11,7 +11,7 @@ body {
 body.home h1 {
   font-size: 4rem;  /* bigger title for homepage only */
   text-align: center;
-  color: #007acc;   /* optional color */
+  color: #333; 
 }
 
 h1 {
