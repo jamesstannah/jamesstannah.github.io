@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-![James Stannah](assets/images/leiden.jpg){: style="display:block; margin:0 auto; width:400px; border-radius:50%;" }
+![James Stannah](assets/images/leiden.jpg){:.profile-photo}
 
 # James Stannah, PhD
 ## Postdoctoral Researcher, Factor-Inwentash Faculty of Social Work (FIFSW), University of Toronto (UofT)
