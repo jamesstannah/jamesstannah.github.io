@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: "Home"
 ---
 
-# Welcome to My Site
-This is the home page.
+# Welcome to my site
 
-[About](about) | [Contact](contact)
+This is the homepage.  
+You can introduce yourself, your work, or your projects here.
