@@ -5,4 +5,7 @@ permalink: /about/
 ---
 
 # About Me
-I’m James, and this is my site.
+
+![James Stannah](assets/images/leiden.jpg){: style="width:200px; border-radius:50%;" }
+
+I’m James Stannah. This is my bio.
