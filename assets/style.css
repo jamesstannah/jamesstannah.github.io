@@ -20,7 +20,7 @@ h2 {
   color: #333;       /* optional lighter color */
 }
 
-header {
+header h1 {
   text-align: center;
   margin-bottom: 2rem;
 }
@@ -43,4 +43,10 @@ footer {
   margin-top: 4rem;
   font-size: 0.9rem;
   color: #666;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 2rem; /* adjust size */
+  margin: 1rem 0 2rem;
 }
