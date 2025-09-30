@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Publications
-
 ### 2025
 - Allorant A, Kuchukhidze S, **Stannah J**, Xia Y, Masuku SS, Ekanmian GK, Imai‐Eaton JW, Maheu‐Giroux M. Socio‐demographic and geographic disparities in HIV prevalence, HIV testing and treatment coverage: An analysis of 108 national household surveys in 33 African countries. Journal of the International AIDS Society. 28(8): e70024.
 - **Stannah J\***, Doyle C\*, Kuchukhidze S\*, Flores Anato JL, Xia Y, Logie CH, Simo Fotso A, Carabeli M, Kye-Duodu G, Mishra S, Mian A, Terris-Prestholt F, Kovtun O, Singh A, Stone J, Niangoran S, Artenie A, Vickerman P, Boily M-C, Maheu-Giroux M. The impact of HIV stigma and discrimination on HIV testing, antiretroviral therapy, and viral suppression in Africa: a pooled analysis of population-based surveys. Lancet HIV (under review May 2025). DOI: https://dx.doi.org/10.2139/ssrn.5225713
