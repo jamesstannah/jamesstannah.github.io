@@ -4,6 +4,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## Projects
+## Current projects
 
-These are my current projects.  
+### Kenya:
+- Afya na Mazingira
+- Rada ya Weather ("What's up with the weather")
