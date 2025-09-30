@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+permalink: /home/
 ---
 
 ![James Stannah](assets/images/leiden.jpg){: style="display:block; margin:0 auto; width:400px; border-radius:50%;" }
