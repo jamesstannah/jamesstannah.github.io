@@ -20,7 +20,7 @@ h2 {
   color: #333;       /* optional lighter color */
 }
 
-header h1 {
+header {
   text-align: center;
   margin-bottom: 2rem;
 }
