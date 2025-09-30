@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+## About Me
 
 ![James Stannah](assets/images/leiden.jpg){: style="width:200px; border-radius:50%;" }
 
