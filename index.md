@@ -3,7 +3,10 @@ layout: default
 title: "Home"
 ---
 
-## Welcome to my site
+![James Stannah](assets/images/leiden.jpg){: style="width:400px; border-radius:50%;" }
 
-This is the homepage.  
-You can introduce yourself, your work, or your projects here.
+# James Stannah, PhD
+## Postdoctoral Fellow, Factor-Inwentash Faculty of Social Work, University of Toronto
+
+I’m James Stannah. I'm a Postdoctoral Fellow in Epidemiology & Social Work in the Factor-Inwentash Faculty of Social Work at University of Toronto.
+
