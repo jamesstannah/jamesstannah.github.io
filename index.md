@@ -17,12 +17,12 @@ title: "Home"
 </div>
 
 ## Research Interests
-- Social determinants of sexual health and HIV/STBBI outcomes  
+- Social and structural determinants of sexual health & wellbeing and HIV/STBBI outcomes  
 - LGBTQIA+ and women’s health in global contexts  
 - Structural stigma, discrimination, and interpersonal violence  
-- Climate change, resource insecurity, and health
+- Climate change, resource insecurity, and sexual and reproductive health
 
 ## Highlights
 - Publications in leading journals (see [Publications](/publications/))  
-- Collaborations with SSHINE Lab, UofT, and international partners  
-- Speaker at global health and epidemiology conferences
+- Collaborations with UNAIDS and international partners
+- Presenter at global health and epidemiology conferences
