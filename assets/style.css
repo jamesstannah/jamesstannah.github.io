@@ -99,8 +99,8 @@ img.profile-photo {
 }
 
 .intro img.profile-photo {
-  width: 180px;              /* slightly smaller for balance */
-  height: 180px;
+  width: 220px;              /* slightly smaller for balance */
+  height: 220px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
