@@ -15,8 +15,7 @@ permalink: /cv/
 - **Research Assistant**, Department of Infectious Disease Epidemiology, Imperial College London (2017-2019)
 
 ## Awards & Fellowships
-- Postdoctoral Fellowship, University of Toronto, 2025  
-- Poster Award, AIDS, 2022  
+- Poster Award, AIDS Conference, 2022  
 
 ## Grants & Funding
 - **Fonds de Recherche de Quebec Sante (FRQS)** – McGill University (2020–2024)  
@@ -25,7 +24,6 @@ permalink: /cv/
 - **Current Projects:**  
   - Afya na Mazingira, Kenya  
   - Rada ya Weather (“What's up with the weather”), Kenya  
-- **Teaching:** Guest lecturer on social determinants of health and HIV/STBBI prevention  
 
 ## Skills
 - Quantitative analysis: R, STATA, Stan 
