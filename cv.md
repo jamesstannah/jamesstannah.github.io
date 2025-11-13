@@ -18,9 +18,13 @@ permalink: /cv/
 - Poster Award, AIDS Conference, 2022  
 
 ## Grants & Funding
-- **Principal applicant:**
+### Principal applicant
   - Fonds de Recherche de Quebec Sante (FRQS) – *McGill University* (2021–2024)
   - McGill Faculty of Medicine Internal Studentship Award - *McGill University* (2020-2021, 2021-2022 [declined])
+  
+### Coapplicant
+
+### Collaborator
 
 ## Research
 - **Current Projects:**  
@@ -28,7 +32,7 @@ permalink: /cv/
   - Rada ya Weather (“What's up with the weather”), Kenya  
 
 ## Teaching
-- **Guest lecturer:**
+### Guest lecturer
   - Comprehensive exam seminar: *How to provide and receive peer review and feedback on your academic writing* - *UofT* (Fall, 2025)
   - Mathematical modeling of infectious diseases: *Age patterns and disease transmission* - *McGill University* (Winter, 2022)
 - **Teaching assistant:**
@@ -41,8 +45,11 @@ permalink: /cv/
 - Other quantitative skills: mathematical modelling, descriptive analysis
 
 ## Presentations
-- **Invited talks:**
-  - 
+### Invited talks
+- **Postdoctoral Fellow Seminar Series**, University of Toronto, Toronto, Canada (October 2025) 
+  *How do we ‘qual the quant’? Bringing social and structural insights and lived realities into quantitative research*
+  
+### Conference presentations
 
 ## Selected Publications
 See [Publications](/publications/) for a complete list.
