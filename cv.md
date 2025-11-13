@@ -33,10 +33,13 @@ permalink: /cv/
 
 ## Teaching
 ### Guest lecturer
-  - Comprehensive exam seminar: *How to provide and receive peer review and feedback on your academic writing* - *UofT* (Fall, 2025)
-  - Mathematical modeling of infectious diseases: *Age patterns and disease transmission* - *McGill University* (Winter, 2022)
-- **Teaching assistant:**
-  - Doctoral methods in epidemiology - *McGill University* (Winter, 2023)
+- **Comprehensive exam seminar**, University of Toronto (Fall, 2025)
+  *How to provide and receive peer review and feedback on your academic writing*
+- **Mathematical modeling of infectious diseases**, McGill University (Winter, 2022)
+  *Age patterns and disease transmission*
+
+### Teaching assistant
+- **Doctoral methods in epidemiology**, McGill University (Winter, 2023)
 
 ## Skills
 - Quantitative analysis: R, STATA, Stan
@@ -46,7 +49,7 @@ permalink: /cv/
 
 ## Presentations
 ### Invited talks
-- **Postdoctoral Fellow Seminar Series**, University of Toronto, Toronto, Canada (October 2025) 
+- **Postdoctoral fellow seminar series**, University of Toronto, Toronto, Canada (October 2025) 
   *How do we ‘qual the quant’? Bringing social and structural insights and lived realities into quantitative research*
   
 ### Conference presentations
