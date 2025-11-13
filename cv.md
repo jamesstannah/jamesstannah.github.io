@@ -34,8 +34,10 @@ permalink: /cv/
 ## Teaching
 ### Guest lecturer
 - **Comprehensive exam seminar**, University of Toronto (Fall, 2025)
+  
   *How to provide and receive peer review and feedback on your academic writing*
 - **Mathematical modeling of infectious diseases**, McGill University (Winter, 2022)
+  
   *Age patterns and disease transmission*
 
 ### Teaching assistant
@@ -50,6 +52,7 @@ permalink: /cv/
 ## Presentations
 ### Invited talks
 - **Postdoctoral fellow seminar series**, University of Toronto, Toronto, Canada (October 2025) 
+  
   *How do we ‘qual the quant’? Bringing social and structural insights and lived realities into quantitative research*
   
 ### Conference presentations
