@@ -1,3 +1,8 @@
 title: "James Stannah"
+Description: Personal website for James Stannah
+
 url: "https://www.jamesstannah.com"
 baseurl: ""
+
+markdown: kramdown
+theme: minima
