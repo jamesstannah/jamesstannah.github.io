@@ -28,4 +28,4 @@ title: "Home"
 - Collaborations with UNAIDS and international partners
 - Presenter at global health and epidemiology conferences
 - Successful grant applications
-- Study coordination and survey design
+- Longitudinal study coordination and survey design
