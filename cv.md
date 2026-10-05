@@ -53,6 +53,7 @@ PhD-trained epidemiologist focused on HIV epidemiology among key populations, pa
 -	2020 – Max E. Binz Fellowship, McGill University
 
 **Co-applicant/Collaborator**
+- 2025 – CIHR Project Grant
 -	2025 – SSHRC Insight Grant
 -	2023 – Wellcome Trust Discovery Award
 -	2021 – GHP-Mi4 Steinberg Seed Fund Grant
