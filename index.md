@@ -16,7 +16,7 @@ title: "Home"
     </div>
 </div>
 
-## Research Interests
+## Research interests
 - Social and structural determinants of sexual health & wellbeing and HIV/STBBI outcomes
 - LGBTQIA+ and women’s health 
 - Quantitative and mixed-methods research

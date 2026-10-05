@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Publications"
+title: "Publications and presentations"
 permalink: /publications/
 ---
 
-## Peer-Reviewed Articles
+## Peer-reviewed articles
 
 ### 2026
 - **Stannah J**, Logie C, Kagunda J, Evelia H, Wu I, Hasham A, Admassu Z, Mwangi M, Chepkirui SG, Gittings L, Dorea C, Mbuagbaw L. *Extreme weather exposure, resource insecurity, and associations with mental health outcomes among Kenyan adolescent girls and young women: longitudinal findings.* SSM-Mental Health. DOI: https://doi.org/10.1016/j.ssmmh.2026.100683 
@@ -37,3 +37,12 @@ permalink: /publications/
 
 ### 2019
 - **Stannah J\***, Dale E\*, Elmes J, Staunton R, Beyrer C, Mitchell KM, Boily MC. *HIV testing and engagement with the HIV treatment cascade among men who have sex with men in Africa: a systematic review and meta-analysis.* The Lancet HIV. 6(11): e769-87.
+
+## Selected presentations
+-	*Intimate partner violence (IPV) and subsequent bacterial sexually transmitted infection (STI) diagnoses among gay, bisexual, and other men who have sex with men (GBM) in Canada*. HIV & STI 2025 World Congress (Montreal, Canada, August 2025) – Oral presentation (accepted)
+-	*Building better HIV models: A framework for incorporating evidence on structural determinants and interventions to estimate their impacts on HIV epidemics*. HIVR4P 2024 (Lima, Peru, October 2024) – Poster presentation
+-	*Conceptualising and modelling structural determinants of HIV*. HIV Modeling Consortium (August 2024) – Invited oral presentation
+-	*Investigating longitudinal links between homophobic violence, depression, alcohol use, and HIV risk among MSM and transgender women: preliminary findings from the HPTN 075 study*. HPTN Annual Meeting 2024 (Washington DC, USA, June 2024) – Poster presentation
+-	*HIV incidence among men who have sex with men*. UNAIDS Reference Group on Estimates, Modelling, and Projections (Stellenbosch, South Africa, May 2023) – Invited oral presentation
+-	*Improving our understanding of how structural determinants impact HIV epidemics: a scoping review of dynamic models*. 24th International AIDS Conference (Montreal, Canada, August 2022) – Poster presentation
+-	*Do MSM in Africa have lower knowledge of HIV status than the national average for all men? A meta-analysis of estimates in 22 countries*. 29th Annual Canadian Conference on HIV/AIDS Research (Quebec City, Canada, April 2020) – Poster presentation

@@ -40,7 +40,7 @@ PhD-trained epidemiologist focused on HIV epidemiology among key populations, pa
 - Extensive **project leadership experience** through coordinating cohort studies.
 
 ## Notable projects
-- Coordinated two mixed-methods cohort studies in Kenya in collaboration with local community-based organisations. Both studies applied a longitudinal quantitative survey (12-18 months duration) and longitudinal qualitative interviews. I helped develop and test survey materials, led virtual training sessions in both quantitative and qualitative methods, conducted weekly meetings with teams over Zoom, coordinated data collection activities, and managed our relationship with community-based partners.
+- Coordinated two mixed-methods cohort studies in Kenya in collaboration with local community-based organisations. Both studies applied a longitudinal quantitative survey (12-18 months duration) and longitudinal qualitative interviews. I helped develop and test survey materials, led virtual training sessions, conducted weekly meetings with teams over Zoom, coordinated data collection activities, and managed the studies to ensure they ran smoothly.
 - Co-led a large analysis of the impact of HIV stigma on HIV outcomes in Africa using all publicly available population-based nationally representative surveys, encompassing over 2 million people. 
 - Led an analysis of the Engage study conducted in Vancouver, Montreal, and Toronto to estimate the population-level impact of intimate partner violence among gay and bisexual men on bacterial STI acquisition.
 - Led an individual participant data meta-analaysis to estimate the longitudinal effect of homophobic violence on HIV in multiple cohort studies of sexual and gender minority individuals across Africa. 
