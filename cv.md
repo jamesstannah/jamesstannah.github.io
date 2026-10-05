@@ -10,8 +10,8 @@ PhD-trained epidemiologist focused on HIV epidemiology among key populations, pa
 ## Education
 
 - **PhD in Epidemiology**, McGill University (*2019-2024*)
--- **Thesis:** *Conceptualising, describing, and analysing the impacts of structural determinants on HIV transmission among sexual and gender minorities*
--- **Supervisors:** Dr. Mathieu Maheu-Giroux, Prof. Marie-Claude Boily
+**Thesis:** *Conceptualising, describing, and analysing the impacts of structural determinants on HIV transmission among sexual and gender minorities*
+**Supervisors:** Dr. Mathieu Maheu-Giroux, Prof. Marie-Claude Boily
 - **Master of Public Health**, Imperial College London (*2016-2017*)
 - **BSc in Biology**, Imperial College London (*2013-2016*)
 
@@ -62,17 +62,9 @@ PhD-trained epidemiologist focused on HIV epidemiology among key populations, pa
 
 ## Teaching
 **Guest lecturer**
--	Practice based research in mental health and health, University of Toronto (Winter, 2026)
-
-*Integrating qualitative and quantitative methods to strengthen study design and interventions*
-
--	Comprehensive exam seminar, University of Toronto (Fall, 2025)
-
-*How to provide and receive peer review and feedback on your writing*
-
--	Mathematical modeling of infectious diseases, McGill University (Winter, 2022)
-
-*Age patterns and disease transmission*
+-	*Integrating qualitative and quantitative methods to strengthen study design and interventions*, Practice based research in mental health and health, University of Toronto (Winter, 2026)
+-	*How to provide and receive peer review and feedback on your writing*, Comprehensive exam seminar, University of Toronto (Fall, 2025)
+-	*Age patterns and disease transmission*, Mathematical modeling of infectious diseases, McGill University (Winter, 2022)
 
 **Teaching assistant**
 -	Doctoral methods in epidemiology, McGill University (Winter, 2023)
