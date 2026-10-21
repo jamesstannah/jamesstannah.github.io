@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <div class="intro">
-  <img src="assets/images/leiden.jpg" alt="James Stannah" class="profile-photo">
+  <img src="assets/images/spadina.jpeg" alt="James Stannah" class="profile-photo">
 
   <div class="bio">
     <h1> James Stannah, PhD</h1>
